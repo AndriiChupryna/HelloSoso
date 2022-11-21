@@ -1,7 +1,7 @@
 public class FirstClass {
     public static void main(String[] args) {
         sayHelloWorld();
-        String name = "Soso";
+        String name = "Jastin";
         String str1 = sayHelloName(name);
         System.out.println(str1);
     }
